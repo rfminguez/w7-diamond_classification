@@ -26,6 +26,8 @@ El análisis preliminar del set de datos está en el Jupyter Notebook `01 Analis
 
 La limpieza y evaluación de los algoritmos está en el Jupyter Notebook `main.ipynb`.
 
+También he hecho una prueba con el algoritmo X Gradient Boosting utilizando la librería H2O en `h2o_xgboost.ipynb`.
+
 Además de eso he separado el código en varios ficheros dentro del directorio `src`:
 - `diamonds_data.py`: parseo de los ficheros de datos.
 - `transform_toolbox.py`: transformaciones de datos, gestión del pipeline de transformaciones y exportación de datos a CSV para la competición.
